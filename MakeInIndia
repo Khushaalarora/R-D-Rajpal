@@ -2,57 +2,15 @@
 <title>MAKE IN INDIA</title>
 
 
+
+
+
+
 <body>
 <font size="12">
-</body>
-<style>
-body {
-    font-size: 12px;
-    background-color:black;
-}
-
-ul {
-    list-style-type: none;
-    
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-    
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 10px 10px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
-}
-
-.active {
-    background-color: gray;
-}
-</style>
-
-<body>
 
 
-<ul>
-  <li><a class="active" href="#home">HOME</a></li>
-  <li><a href="#news">NEWS</a></li>
-  <li><a href="#contact">CONTACT</a></li>
-  <li style="float:right"><a class="active" href="#about us">ABOUT US</a></li>
-</ul>
+
 
 <div style="background-color:white;margin:20px;">
 <div style="margin:50px;"><p><b><font size="2" face="comic sans ms" color="black">
@@ -80,36 +38,7 @@ Make in India, a type of Swadeshi movement covering 25 sectors of economy, was l
 5. 	Increasing the standard of living for millions.<br>
  6.	Supporting many small scale industries which are dependent on these large scale manufacturers.<br></p>
 
-</div>
-<div>
-<div style="background-color:white;margin:100px;">
-<div style="margin:50px;"><p><b><font size="5" face="comic sans ms" color="black">
 
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Add icon library -->
-<link rel="stylesheet" a href="http://www.ibbc.bg/wp-content/uploads/2016/02/Make-In-India-presentation.pdf">
-<style>
-.btn {
-    background-color: black;
-    border: none;
-    color: white;
-    padding: 12px 30px;
-    font-size: 16px;
-    cursor: pointer;
-    font-size: 20px;
-}
-
-/* Darker background on mouse-over */
-.btn:hover {
-    background-color:grey;
-}
-</style>
-
-
-<p><b><u>FOR MORE INFORMATION CLICK BELOW TO DOWNLOAD PDF FILE :</u></b></p>
-<button class="btn"><i class="fa fa-download"></i> Download </button>
-</div>
 </body>
 </html>
 
